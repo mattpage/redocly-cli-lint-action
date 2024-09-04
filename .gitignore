@@ -92,6 +92,6 @@ Thumbs.db
 __tests__/runner/*
 lib/**/*
 
-node_modules
+node_modules/**/*
 
 .node-version

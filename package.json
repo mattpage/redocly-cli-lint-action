@@ -26,8 +26,8 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@redocly/openapi-cli": "^1.0.0-beta.64",
-    "@redocly/openapi-core": "^1.0.0-beta.64"
+    "@redocly/cli": "1.0.0-beta.110",
+    "@redocly/openapi-core": "1.0.0-beta.110"
   },
   "devDependencies": {
     "@types/babel__parser": "^7.1.1",
@@ -35,7 +35,7 @@
     "@types/js-yaml": "^4.0.0",
     "@types/node": "^14.14.9",
     "@typescript-eslint/parser": "^4.8.1",
-    "@vercel/ncc": "^0.25.1",
+    "@vercel/ncc": "^0.38.1",
     "eslint": "^7.17.0",
     "eslint-plugin-github": "^4.1.1",
     "eslint-plugin-jest": "^24.1.3",
